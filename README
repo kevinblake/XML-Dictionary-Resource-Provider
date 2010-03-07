@@ -1,0 +1,19 @@
+## Simple XML Dictionary Resource Provider README
+   https://github.com/kevinblake/XML-Dictionary-Resource-Provider
+
+## Introduction
+
+   A simple XML resource provider for .NET Localisation / Translation.  This is an
+   alternative to .resx files for more human readable files and extensibility.
+   More providers can easily be added for databases, web services or other file
+   formats.
+
+## Usage
+
+   TBD.  Please check the Web.Sample for example usage.
+
+## Contact
+
+   If you have any feedback, please contact me via:
+      Github: github.com/kevinblake
+      Twitter: @kevinblake
